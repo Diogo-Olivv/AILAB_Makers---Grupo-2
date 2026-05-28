@@ -11,10 +11,18 @@ theme:
 nav:
   - Home: index.md
   - Projeto:
+      - Backlog:
+          - Base: projeto/backlog/index.md
+          - Hugo: projeto/backlog/Hugo.md
+          - Martin: projeto/backlog/Martin.md
+          - Gabriel: projeto/backlog/Gabriel.md
+          - Luiza: projeto/backlog/Luiza.md
+          - Lucas: projeto/backlog/Lucas.md
       - Arquitetura: projeto/arquitetura.md
       - Setup Inicial: projeto/setup.md
       - Tecnologias: projeto/tecnologias.md
       - Cronograma Fase 2: cronograma_fase2.md
+
   - Padrões de Trabalho:
       - Commits e Branches: padroes/git.md
       - Padrões de Código: padroes/codigo.md
