@@ -1,4 +1,4 @@
-Histórias de Infraestrutura — Sistema HealthTech
+# HealthTech - Backlog infraestrutura
 
 # Epico 1 — Provisionamento Cloud
 
@@ -429,7 +429,7 @@ Métricas de escala monitoradas.
 
 ---
 
-## OPS-03 — Health Checks
+## 03 — Health Checks
 
 Descrição:
 Como equipe DevOps, quero configurar health checks para verificar automaticamente a saúde dos serviços.
@@ -450,7 +450,7 @@ Health checks executados periodicamente.
 
 ## -04 — Disaster Recovery
 
-Descrição:
+Descrição :
 Como administrador da infraestrutura, quero configurar disaster recovery para restaurar o sistema em caso de falha grave.
 
 ### Critérios de Aceitação
